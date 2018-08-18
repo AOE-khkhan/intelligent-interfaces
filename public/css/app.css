@@ -6,7 +6,7 @@
 
 body {
     background-color: white;
-    background-image: url("../img/OFN.jpg");
+    background-image: url("../img/watson.png");
     background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
@@ -490,6 +490,6 @@ background-image: url("../img/phone1.jpg");
 }
 
  .html
-{background:url("../img/OFNpage.png") no-repeat center fixed;
+{background:url("../img/watson.png") no-repeat center fixed;
 background-size:cover;
 }
