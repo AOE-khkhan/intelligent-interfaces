@@ -1,4 +1,4 @@
-/**
+**
  * Copyright 2017 IBM Corp. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the 'License'); you may not
@@ -76,7 +76,7 @@ discoverySetup.setupDiscovery(discoverySetupParams, (err, data) => {
 
 let workspaceID; // workspaceID will be set when the workspace is created or validated.
 const assistantSetup = new WatsonAssistantSetup(assistant);
-const workspaceJson = JSON.parse(fs.readFileSync('data/conversation/workspaces/lending.json'));
+const workspaceJson = JSON.parse(fs.readFileSync('data/conversation/workspaces/lendingV2.json'));
 const assistantSetupParams = { default_name: DEFAULT_NAME, workspace_json: workspaceJson };
 assistantSetup.setupAssistantWorkspace(assistantSetupParams, (err, data) => {
   if (err) {

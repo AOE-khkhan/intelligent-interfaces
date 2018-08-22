@@ -6,8 +6,6 @@
 
 body {
     background-color: white;
-    background-image: url("../img/watson.png");
-    background-repeat:no-repeat;
     background-position:center;
     background-attachment:fixed;
  	margin: 0;
@@ -76,9 +74,6 @@ div {
   height: 70%;
   padding: 0.9375rem 0 0.625rem 0;
   margin: auto;
-  position: absolute;
-  bottom: 10;
-  right:8%;
   text-align: left;
   max-width: 25rem;
   min-width: 9.375rem;
@@ -490,6 +485,6 @@ background-image: url("../img/phone1.jpg");
 }
 
  .html
-{background:url("../img/watson.png") no-repeat center fixed;
+{
 background-size:cover;
 }
