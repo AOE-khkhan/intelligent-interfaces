@@ -10,3 +10,4 @@ We came with Lending Helper chat-bot idea which will help for customers to their
 •	General FAQ around Lending.
 
 
+![(https://github.com/sukhramb/intelligent-interfaces/blob/master/public/img/bot-architecture.png)]
