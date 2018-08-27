@@ -9,5 +9,9 @@ We came with Lending Helper chat-bot idea which will help for customers to their
 *	Check the status of their Lending application
 *	General FAQ around Lending.
 
+![](https://github.com/sukhramb/intelligent-interfaces/blob/master/public/img/chatbot.png)
 
-[![(https://github.com/sukhramb/intelligent-interfaces/blob/master/public/img/bot-architecture.png)]]
+## Archiitecture
+![](https://github.com/sukhramb/intelligent-interfaces/blob/master/public/img/bot-architecture.png)
+
+
